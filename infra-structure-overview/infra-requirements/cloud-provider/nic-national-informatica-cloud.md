@@ -1,2 +1,0 @@
-# \(NIC\) National Informatica Cloud
-
