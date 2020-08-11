@@ -7,8 +7,8 @@
 ---
 
 * [Digit Platform Overview](digit-platform-overview.md)
-* [Technology & Architecture](technology-and-architecture/README.md)
-  * [Technical Documentation](technology-and-architecture/technical-documentation.md)
+* [Technology & Architecture](technology-and-architecture.md)
+* [Technical Documents](technical-documentation.md)
 * [Infra Structure Overview](infra-structure-overview/README.md)
   * [Deployment Architecture](infra-structure-overview/deployment-architecture.md)
   * [Infra Requirements](infra-structure-overview/infra-requirements/README.md)
@@ -45,4 +45,8 @@
 
 * [Architecture Explained](tutorials-and-demo/architecture-explained.md)
 * [Infra provisioning - AWS](tutorials-and-demo/infra-provisioning-aws.md)
+
+## Know How
+
+* [How DIGIT coexistence works](know-how/how-digit-coexistence-works.md)
 
