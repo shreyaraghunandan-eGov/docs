@@ -39,7 +39,7 @@
 
 ## FAQ
 
-* [Untitled](faq/untitled.md)
+* [Ask me something](faq/untitled.md)
 
 ## Tutorials & Demo
 
