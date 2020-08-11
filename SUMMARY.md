@@ -26,3 +26,16 @@
 * [Installation](digit-setup/installation.md)
 * [Upgrade](digit-setup/upgrade.md)
 
+## Releases
+
+* [Untitled](releases/untitled.md)
+
+## FAQ
+
+* [Untitled](faq/untitled.md)
+
+## Tutorials & Demo
+
+* [Architecture Explained](tutorials-and-demo/architecture-explained.md)
+* [Infra provisioning - AWS](tutorials-and-demo/infra-provisioning-aws.md)
+
