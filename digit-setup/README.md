@@ -1,2 +1,2 @@
-# Setup DIGIT
+# DIGIT Setup
 
