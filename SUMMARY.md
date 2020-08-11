@@ -7,7 +7,8 @@
 ---
 
 * [Digit Platform Overview](digit-platform-overview.md)
-* [Technology & Architecture](technology-and-architecture.md)
+* [Technology & Architecture](technology-and-architecture/README.md)
+  * [Technical Documentation](technology-and-architecture/technical-documentation.md)
 * [Infra Structure Overview](infra-structure-overview/README.md)
   * [Deployment Architecture](infra-structure-overview/deployment-architecture.md)
   * [Infra Requirements](infra-structure-overview/infra-requirements/README.md)
@@ -28,7 +29,9 @@
 
 ## Releases
 
-* [Untitled](releases/untitled.md)
+* [Release - DIGIT 2.0 \(30.07.2020\)](releases/egovernments-product-engineering-release-digit-2.0-30.07.2020/README.md)
+  * [Changelog](releases/egovernments-product-engineering-release-digit-2.0-30.07.2020/changelog.md)
+  * [Localisation](releases/egovernments-product-engineering-release-digit-2.0-30.07.2020/localisation.md)
 
 ## FAQ
 
