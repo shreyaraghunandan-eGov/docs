@@ -10,7 +10,7 @@
     * [Infra Requirements](understand-digit/infra-structure-overview/infra-requirements/README.md)
       * [Cluster Requirements](understand-digit/infra-structure-overview/infra-requirements/cluster-requirements.md)
       * [Cloud Provider](understand-digit/infra-structure-overview/infra-requirements/cloud-provider/README.md)
-        * [\(NIC\) National Informatica Cloud](understand-digit/infra-structure-overview/infra-requirements/cloud-provider/nic-national-informatica-cloud.md)
+        * [NIC](understand-digit/infra-structure-overview/infra-requirements/cloud-provider/nic-national-informatica-cloud.md)
         * [SDC \(State Data Center\)](understand-digit/infra-structure-overview/infra-requirements/cloud-provider/sdc-state-data-center.md)
         * [AWS](understand-digit/infra-structure-overview/infra-requirements/cloud-provider/aws.md)
         * [Azure](understand-digit/infra-structure-overview/infra-requirements/cloud-provider/azure.md)

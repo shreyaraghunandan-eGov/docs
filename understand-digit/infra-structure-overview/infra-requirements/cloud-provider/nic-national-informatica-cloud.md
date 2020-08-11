@@ -1,2 +1,6 @@
-# \(NIC\) National Informatica Cloud
+---
+description: National Informatica Cloud
+---
+
+# NIC
 
