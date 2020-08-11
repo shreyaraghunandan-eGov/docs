@@ -27,6 +27,7 @@
 * [Installation](digit-setup/installation.md)
 * [Upgrade](digit-setup/upgrade/README.md)
   * [Upgrading from 1.x to 2.0](digit-setup/upgrade/upgrading-from-1.x-to-2.0.md)
+* [DevOps](digit-setup/devops.md)
 * [Troubleshooting](digit-setup/troubleshooting.md)
 
 ## Releases
@@ -37,10 +38,6 @@
   * [API Contracts](releases/egovernments-product-engineering-release-digit-2.0-30.07.2020/api-contracts/README.md)
     * [WS Contracts](releases/egovernments-product-engineering-release-digit-2.0-30.07.2020/api-contracts/ws-contracts.md)
 
-## FAQ
-
-* [Ask me something](faq/untitled.md)
-
 ## Tutorials & Demo
 
 * [Architecture Explained](tutorials-and-demo/architecture-explained.md)
@@ -49,4 +46,12 @@
 ## Know How
 
 * [How DIGIT coexistence works](know-how/how-digit-coexistence-works.md)
+
+## FAQ
+
+* [Ask me something](faq/untitled.md)
+
+## Still got questions?
+
+* [Reach us](still-got-questions/reach-us.md)
 
