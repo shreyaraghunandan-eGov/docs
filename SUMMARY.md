@@ -1,4 +1,4 @@
 # Table of contents
 
-* [docs](README.md)
+* [Welcome to DIGIT](README.md)
 
