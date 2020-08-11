@@ -1,4 +1,4 @@
-# Release - DIGIT 2.0 \(30.07.2020\)
+# DIGIT 2.0 \(30.07.2020\)
 
 ### **Release Summary:** <a id="Release-DIGIT2.0(30.07.2020)-ReleaseSummary:"></a>
 

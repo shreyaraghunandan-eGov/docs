@@ -25,13 +25,17 @@
 ## DIGIT Setup
 
 * [Installation](digit-setup/installation.md)
-* [Upgrade](digit-setup/upgrade.md)
+* [Upgrade](digit-setup/upgrade/README.md)
+  * [Upgrading from 1.x to 2.0](digit-setup/upgrade/upgrading-from-1.x-to-2.0.md)
+* [Troubleshooting](digit-setup/troubleshooting.md)
 
 ## Releases
 
-* [Release - DIGIT 2.0 \(30.07.2020\)](releases/egovernments-product-engineering-release-digit-2.0-30.07.2020/README.md)
+* [DIGIT 2.0 \(30.07.2020\)](releases/egovernments-product-engineering-release-digit-2.0-30.07.2020/README.md)
   * [Changelog](releases/egovernments-product-engineering-release-digit-2.0-30.07.2020/changelog.md)
   * [Localisation](releases/egovernments-product-engineering-release-digit-2.0-30.07.2020/localisation.md)
+  * [API Contracts](releases/egovernments-product-engineering-release-digit-2.0-30.07.2020/api-contracts/README.md)
+    * [WS Contracts](releases/egovernments-product-engineering-release-digit-2.0-30.07.2020/api-contracts/ws-contracts.md)
 
 ## FAQ
 
