@@ -56,10 +56,10 @@ There will be a single source of truth which means the data will be either avail
 
 ### How does other system interact with ERP system?
 
-Rainmaker and Water & Sewerage standalone system will create vouchers in the ERP Finance system using the REST API. Rainmaker will access all finance master data from ERP Finance through REST calls whereas Water & Sewerage system will have the specific finance master data within the water system itself. The interaction of finance and water module are mainly two-fold.
+Rainmaker and **Water & Sewerage** standalone system will create vouchers in the ERP Finance system using the REST API. Rainmaker will access all finance master data from ERP Finance through REST calls whereas Water & Sewerage system will have the specific finance master data within the water system itself. The interaction of finance and water module are mainly two-fold.
 
-* Getting master data for receipt and remittance 
-* Voucher creation.
+* **Getting master data for receipt and remittance** 
+* **Voucher creation.**
 
 Collection module will make REST calls to finance ERP for all master data and voucher creation.There are standard system integrator roles and users created for integrating finance and water system to Rainmaker. System integrator role will be mapped with all the permissible actions.
 
