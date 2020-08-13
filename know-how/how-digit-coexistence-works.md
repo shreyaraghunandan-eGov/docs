@@ -12,7 +12,7 @@ description: >-
 
 ## Technical details
 
-This section will list some of the technical details of how each of the hooks is implemented in this coexistence framework. 
+This section will list some of the technical details of how each of the hooks is implemented in this coexistence framework.
 
 ### Where does the user data reside?
 
@@ -40,7 +40,7 @@ Menu tree will be loaded in Rainmaker for all the application irrespective of th
 
 ### How do the items load in the inbox?
 
-Login to the application is through rainmaker and hence the inbox also should be available in the same. There are two ways of implementing this-  1\) show the ERP workflow items as a separate list 2\) Show the ERP workflow items along with the other Rainmaker workflow items.
+Login to the application is through rainmaker and hence the inbox also should be available in the same. There are two ways of implementing this- 1\) show the ERP workflow items as a separate list 2\) Show the ERP workflow items along with the other Rainmaker workflow items.
 
 The best approach is to have an inbox hook in Rainmaker where all module workflow items are listed in order. This will also contain items from ERP finance like, approve a payment, approve budget etc. along with Trade license. ERP system will expose a REST API to the rainmaker, this API will be called when rendering the inbox.
 

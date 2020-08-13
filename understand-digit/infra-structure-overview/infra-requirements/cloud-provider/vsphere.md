@@ -1,6 +1,6 @@
 # VSphere
 
-##  VSphere
+## VSphere
 
 ### VSphere <a id="vsphere"></a>
 
