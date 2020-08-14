@@ -17,7 +17,7 @@
         * [VSphere](understand-digit/infra-structure-overview/infra-requirements/cloud-provider/vsphere.md)
     * [Estimating Infra](understand-digit/infra-structure-overview/estimating-infra.md)
     * [Deployment Architecture \(WIP...\)](understand-digit/infra-structure-overview/deployment-architecture.md)
-* [Setup DIGIT](digit-setup/README.md)
+* [Deploy DIGIT](digit-setup/README.md)
   * [DevOps](digit-setup/devops.md)
   * [Upgrade](digit-setup/upgrade/README.md)
     * [Upgrading from 1.x to 2.0](digit-setup/upgrade/upgrading-from-1.x-to-2.0.md)
