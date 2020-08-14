@@ -5,9 +5,21 @@ description: >-
   required infra and deploy DIGIT
 ---
 
-# Deployment Architecture
+# Deployment Architecture \(WIP...\)
 
 ### Pre-Requisites:
+
+* On-premise/private cloud requirements
+  * Interface to access and provision required infra
+  * Public cloud requirements
+    * AWS or Azure account or GCP
+  * Private Cloud
+* Skills
+  * Understanding of VM Instances, LoadBalancers, SecurityGroups/Firewalls, ngnix, DB Instance, Data Volumes.
+  * Experience of kubernetes, docker, jenkins, helm, Infra-as-code, Terraform
+  * Cloud Infra - Permission and account to provision the above resources.
+
+
 
 
 
@@ -33,5 +45,11 @@ description: >-
 
 
 
+### Sample Kubernetes Architecture
+
 ![](../../.gitbook/assets/image%20%289%29.png)
+
+### DIGIT Deployment Architecture
+
+![](../../.gitbook/assets/image%20%2810%29.png)
 

@@ -16,7 +16,7 @@
         * [Google Cloud Platform](understand-digit/infra-structure-overview/infra-requirements/cloud-provider/google-cloud-platform.md)
         * [VSphere](understand-digit/infra-structure-overview/infra-requirements/cloud-provider/vsphere.md)
     * [Estimating Infra](understand-digit/infra-structure-overview/estimating-infra.md)
-    * [Deployment Architecture](understand-digit/infra-structure-overview/deployment-architecture.md)
+    * [Deployment Architecture \(WIP...\)](understand-digit/infra-structure-overview/deployment-architecture.md)
 * [Setup DIGIT](digit-setup/README.md)
   * [DevOps](digit-setup/devops.md)
   * [Upgrade](digit-setup/upgrade/README.md)
