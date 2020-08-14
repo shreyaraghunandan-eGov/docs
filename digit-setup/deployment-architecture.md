@@ -8,13 +8,13 @@ description: >-
 
 ### Sample Kubernetes Architecture
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ### DIGIT Deployment Architecture
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ### The CI/CD Flow
 
