@@ -4,5 +4,5 @@ description: >-
   Infra.
 ---
 
-# Cloud & Infrastructure
+# Cloud Infrastructure
 

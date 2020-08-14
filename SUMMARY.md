@@ -5,7 +5,7 @@
   * [Digit Platform Overview](understand-digit/digit-platform-overview.md)
   * [Technology & Architecture](understand-digit/technology-and-architecture.md)
   * [Technical Documents](understand-digit/technical-documentation.md)
-  * [Cloud & Infrastructure](understand-digit/infra-structure-overview/README.md)
+  * [Cloud Infrastructure](understand-digit/infra-structure-overview/README.md)
     * [Infra Requirements](understand-digit/infra-structure-overview/infra-requirements/README.md)
       * [Cluster Requirements](understand-digit/infra-structure-overview/infra-requirements/cluster-requirements.md)
       * [Cloud Provider](understand-digit/infra-structure-overview/infra-requirements/cloud-provider/README.md)
