@@ -40,6 +40,7 @@
 * [Know How](know-how/README.md)
   * [How DIGIT coexistence works](know-how/how-digit-coexistence-works.md)
 * [FAQ](faq/README.md)
+  * [Sameple](faq/sameple.md)
   * [Ask me something](faq/untitled.md)
   * [AP FAQ : Will 2 notices be generated in the case of appurtenant land?](faq/ap-faq-will-2-notices-be-generated-in-the-case-of-appurtenant-land.md)
   * [AP FAQ : How to do dishonour cheque and whether dishonouring the cheque will update DCB of respectiv](faq/ap-faq-how-to-do-dishonour-cheque-and-whether-dishonouring-the-cheque-will-update-dcb-of-respectiv.md)
