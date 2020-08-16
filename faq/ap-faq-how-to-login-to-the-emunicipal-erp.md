@@ -1,6 +1,6 @@
 # AP FAQ : How to Login to the eMunicipal ERP
 
-To perform any transaction in the eMunicipal ERP, You will need to login to the application. 
+To perform any transaction in the eMunicipal ERP, You will need to login to the application.
 
 During the go live process, if your employee data was provided by the ULB, a username and brief profile will have already been created for you.
 

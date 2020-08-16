@@ -1,6 +1,6 @@
 # AP FAQ : How to process the Title transfer application if two assessments have same Document number?
 
-There may be times when two different title transfer application may have the same same registration number. 
+There may be times when two different title transfer application may have the same same registration number.
 
 The ERP does not have a validation regarding the duplicate entry of the same document number for two or more assessments. So the same Document can be entered for both the title transfer transactions.
 
