@@ -1,2 +1,2 @@
-# Understand DIGIT
+# DIGIT Modules and Features
 
