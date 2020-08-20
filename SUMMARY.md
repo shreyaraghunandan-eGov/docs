@@ -92,6 +92,4 @@
   * [Deployment Architecture](deploy/deployment-architecture.md)
 * [DIGIT Support](digit-support/README.md)
   * [Support Process](digit-support/support-process.md)
-* [GTM Documents](gtm.md)
-* [Policy & Advocacy](policy.md)
 
