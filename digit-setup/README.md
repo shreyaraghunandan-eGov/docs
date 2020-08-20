@@ -6,7 +6,7 @@ description: >-
 
 # Deploy DIGIT
 
-## Pre-Requisites:
+### Pre-Requisites:
 
 * On-premise/private cloud accounts
   * Interface to access and provision required infra
@@ -23,7 +23,7 @@ description: >-
   * Experience of kubernetes, docker, jenkins, helm, Infra-as-code, Terraform.
   * Experience on DevOps/SRE practice on a Microservices and modern infrastructure.
 
-## High level action to deploy DIGIT
+### High level action to deploy DIGIT
 
 1. [Provisioning the kubernetes Cluster](https://medium.com/better-programming/build-your-own-multi-node-kubernetes-cluster-with-monitoring-346a7e2ef6e2) in any of the 
    * [Commercial cloud](https://learn.hashicorp.com/terraform?track=kubernetes#kubernetes) or 
