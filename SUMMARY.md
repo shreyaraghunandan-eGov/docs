@@ -19,6 +19,7 @@
   * [Product Brochures](understand-digit/product-brochures/README.md)
     * [Property Tax](understand-digit/product-brochures/property-tax.md)
   * [Product User Guides](understand-digit/product-user-guides/README.md)
+    * [Trade License](understand-digit/product-user-guides/trade-license.md)
     * [Public Grievance](understand-digit/product-user-guides/public-grievance.md)
   * [Release Notes](understand-digit/release-notes/README.md)
     * [DIGIT 2.0 \(30.07.2020\)](understand-digit/release-notes/digit-2.0-30.07.2020/README.md)
