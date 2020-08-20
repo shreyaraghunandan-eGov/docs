@@ -1,14 +1,14 @@
 # Table of contents
 
 * [DIGIT](README.md)
-* [Getting Started with DIGIT](getting-started-with-digit/README.md)
+* [Getting Started](getting-started-with-digit/README.md)
   * [Digit Overview](getting-started-with-digit/digit-platform-overview.md)
   * [DIGIT Architecture](getting-started-with-digit/technology-and-architecture.md)
   * [DIGIT Roadmap](getting-started-with-digit/digit-roadmap.md)
-* [DIGIT Modules and Features](understand-digit/README.md)
-  * [Getting Started with Modules](understand-digit/getting-started-with-modules/README.md)
-    * [Property Tax](understand-digit/getting-started-with-modules/property-tax.md)
+* [DIGIT Modules & Features](understand-digit/README.md)
+  * [Modules Overview](understand-digit/getting-started-with-modules/README.md)
     * [Public Greviance](understand-digit/getting-started-with-modules/public-greviance.md)
+    * [Property Tax](understand-digit/getting-started-with-modules/property-tax.md)
     * [Trade License](understand-digit/getting-started-with-modules/trade-license.md)
     * [Water & Sewerage](understand-digit/getting-started-with-modules/water-and-sewerage.md)
     * [mCollect](understand-digit/getting-started-with-modules/mcollect.md)

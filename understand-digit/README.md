@@ -1,2 +1,2 @@
-# DIGIT Modules and Features
+# DIGIT Modules & Features
 

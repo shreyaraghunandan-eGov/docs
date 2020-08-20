@@ -1,2 +1,4 @@
-# Getting Started with Modules
+# Modules Overview
+
+![](../../.gitbook/assets/image%20%2827%29.png)
 
