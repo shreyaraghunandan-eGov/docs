@@ -1,8 +1,8 @@
 # Cluster Requirements
 
-### Requirements <a id="requirements"></a>
+## Requirements <a id="requirements"></a>
 
-#### Master Cluster <a id="master-cluster"></a>
+### Master Cluster <a id="master-cluster"></a>
 
 * Six or more machines running one of:
   * Ubuntu 16.04+
@@ -13,7 +13,7 @@
 * 4 GB or more of RAM per machine \(any less will leave little room for your apps\)
 * 2 CPUs or more
 
-#### User Cluster <a id="user-cluster"></a>
+### User Cluster <a id="user-cluster"></a>
 
 * One or more machines running one of:
   * Ubuntu 16.04+
@@ -28,18 +28,18 @@
 * Certain ports are open on your machines. See below for more details.
 * Swap disabled. You **MUST** disable swap in order for the kubelet to work properly.
 
-#### Verify the MAC Address and `product_uuid` Are Unique for Every Node <a id="verify-the-mac-address-and-product_uuid-are-unique-for-every-node"></a>
+### Verify the MAC Address and `product_uuid` Are Unique for Every Node <a id="verify-the-mac-address-and-product_uuid-are-unique-for-every-node"></a>
 
 * You can get the MAC address of the network interfaces using the command `ip link` or `ifconfig -a`
 * The product\_uuid can be checked by using the command `sudo cat /sys/class/dmi/id/product_uuid`
 
 It is very likely that hardware devices will have unique addresses, although some virtual machines may have identical values. Kubernetes uses these values to uniquely identify the nodes in the cluster. If these values are not unique to each node, the installation process may [fail](https://github.com/kubernetes/kubeadm/issues/31).
 
-#### Check Network Adapters <a id="check-network-adapters"></a>
+### Check Network Adapters <a id="check-network-adapters"></a>
 
 If you have more than one network adapter, and your Kubernetes components are not reachable on the default route, we recommend you add IP route\(s\) so Kubernetes cluster addresses go via the appropriate adapter.
 
-#### Check Required Ports <a id="check-required-ports"></a>
+### Check Required Ports <a id="check-required-ports"></a>
 
 **Master Cluster Master Node\(s\)**
 

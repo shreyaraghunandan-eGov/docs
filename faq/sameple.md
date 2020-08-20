@@ -22,5 +22,3 @@ asdfasdfas
 {% endtab %}
 {% endtabs %}
 
-
-

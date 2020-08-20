@@ -1,6 +1,6 @@
 # Azure
 
-##  Azure
+## Azure
 
 ### Prepare Azure Environment <a id="prepare-azure-environment"></a>
 
