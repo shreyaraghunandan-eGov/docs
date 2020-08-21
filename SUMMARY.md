@@ -89,14 +89,6 @@
     * [Troubleshooting](deploy/infra-specification/troubleshooting.md)
   * [Digit Deployment on AWS](deploy/digit-deployment-on-aws.md)
   * [DIGIT - CI/CD](deploy/digit-ci-cd.md)
-
-## Nithya's Technical World <a id="nithyas-technical-world-1"></a>
-
-* [Hello World](nithyas-technical-world-1/hello-world.md)
-* [Mars](nithyas-technical-world-1/mars.md)
-
----
-
 * [Untitled](untitled/README.md)
   * [Adding a new service to build pipeline](untitled/adding-a-new-service-to-build-pipeline.md)
   * [Deployment Architecture](untitled/deployment-architecture.md)
