@@ -83,7 +83,7 @@
     * [Data Migration Principles](customizing-digit/data-migration/data-migration-principles.md)
     * [Data Templates](customizing-digit/data-migration/data-templates.md)
     * [Data Migration Kit](customizing-digit/data-migration/data-migration-kit.md)
-* [Deployment Tools](deploy/README.md)
+* [Deploy DIGIT](deploy/README.md)
   * [Infra Specification](deploy/infra-specification/README.md)
     * [Installation](deploy/infra-specification/installation.md)
     * [Troubleshooting](deploy/infra-specification/troubleshooting.md)
