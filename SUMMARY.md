@@ -29,6 +29,7 @@
         * [WS Contracts](understand-digit/release-notes/digit-2.0-30.07.2020/api-contracts/ws-contracts.md)
   * [Product FAQs](understand-digit/product-faqs.md)
   * [DIGIT Service](understand-digit/technical-documentation/README.md)
+    * [MDMS](understand-digit/technical-documentation/mdms.md)
     * [Core Service](understand-digit/technical-documentation/core-service.md)
     * [Business Service](understand-digit/technical-documentation/business-service.md)
     * [Municipal Service](understand-digit/technical-documentation/municipal-service.md)
@@ -87,9 +88,18 @@
     * [Installation](deploy/infra-specification/installation.md)
     * [Troubleshooting](deploy/infra-specification/troubleshooting.md)
   * [Digit Deployment on AWS](deploy/digit-deployment-on-aws.md)
-  * [DIGIT - CI/CD](deploy/digit-ci-cd/README.md)
-    * [Adding a new service to build pipeline](deploy/digit-ci-cd/adding-a-new-service-to-build-pipeline.md)
-  * [Deployment Architecture](deploy/deployment-architecture.md)
+  * [DIGIT - CI/CD](deploy/digit-ci-cd.md)
+
+## Nithya's Technical World <a id="nithyas-technical-world-1"></a>
+
+* [Hello World](nithyas-technical-world-1/hello-world.md)
+* [Mars](nithyas-technical-world-1/mars.md)
+
+---
+
+* [Untitled](untitled/README.md)
+  * [Adding a new service to build pipeline](untitled/adding-a-new-service-to-build-pipeline.md)
+  * [Deployment Architecture](untitled/deployment-architecture.md)
 * [DIGIT Support](digit-support/README.md)
   * [Support Process](digit-support/support-process.md)
 
