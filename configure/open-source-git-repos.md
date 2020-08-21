@@ -5,7 +5,7 @@ description: >-
   capacity.
 ---
 
-# Open source Git Repos
+# Git Repos
 
 {% embed url="https://www.youtube.com/watch?v=vSkx0OYerhg" %}
 

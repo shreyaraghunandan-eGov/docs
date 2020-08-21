@@ -1,2 +1,2 @@
-# Configuring DIGIT Services
+# Configuring Services
 
