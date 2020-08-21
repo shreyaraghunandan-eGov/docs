@@ -1,6 +1,6 @@
 # DIGIT Roadmap
 
-DIGIT Roadmap is centered around the following five themes. The sample deliverables against each of these themes are mentioned below
+DIGIT Roadmap is centred around the following five themes. The sample deliverables against each of these themes are mentioned below
 
 **Release 20-02**
 
