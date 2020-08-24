@@ -4,5 +4,5 @@ description: >-
   Infra.
 ---
 
-# Cloud Provider
+# Supported Clouds
 

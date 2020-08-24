@@ -1,2 +1,6 @@
-# SDC \(State Data Center\)
+---
+description: State Data Center
+---
+
+# SDC
 
