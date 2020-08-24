@@ -101,15 +101,15 @@ PGR handles below functionalities mapped to specific employee roles:
 
 To login, please go to the following link: [https://egov-micro-](https://egov-micro-qa.egovernments.org/employee/user/login) [qa.egovernments.org/employee/user/login](https://egov-micro-qa.egovernments.org/employee/user/login)
 
-![](../../../.gitbook/assets/image%20%2851%29.png)
+![](../../../.gitbook/assets/image%20%2854%29.png)
 
 ### Password Reset
 
 Follow the steps shown by the screenshots below to reset your password
 
-![](../../../.gitbook/assets/image%20%2846%29.png)
+![](../../../.gitbook/assets/image%20%2849%29.png)
 
-![](../../../.gitbook/assets/image%20%2848%29.png)
+![](../../../.gitbook/assets/image%20%2851%29.png)
 
 An OTP is sent to the user’s registered mobile number, if the user does not receive the OTP he/she clicks on ‘RESEND’ under the ‘OTP’ field.
 
@@ -132,27 +132,27 @@ Follow the steps shown below to edit your profile. You can:
 
 User sees the ‘Edit Profile’ page where he/she can upload a new profile picture, edit his/her name, Phone Number and Email Id
 
-![](../../../.gitbook/assets/image%20%2850%29.png)
+![](../../../.gitbook/assets/image%20%2853%29.png)
 
 
 
 #### Uploading Profile Photo
 
-![](../../../.gitbook/assets/image%20%2843%29.png)
+![](../../../.gitbook/assets/image%20%2845%29.png)
 
 #### Changing the Password
 
 Follow the steps below to change your password.
 
-![](../../../.gitbook/assets/image%20%2853%29.png)
+![](../../../.gitbook/assets/image%20%2856%29.png)
 
-![](../../../.gitbook/assets/image%20%2844%29.png)
+![](../../../.gitbook/assets/image%20%2847%29.png)
 
 ## Role Based Landing screens
 
 ### Assigning Officer
 
-![](../../../.gitbook/assets/image%20%2839%29.png)
+![](../../../.gitbook/assets/image%20%2840%29.png)
 
 ### Last Mile Employee
 
@@ -160,13 +160,13 @@ Follow the steps below to change your password.
 
 ### Citizen Service Representative
 
-![](../../../.gitbook/assets/image%20%2856%29.png)
+![](../../../.gitbook/assets/image%20%2859%29.png)
 
 ## Role Based Actions
 
 ### Assigning Officer
 
-![](../../../.gitbook/assets/image%20%2847%29.png)
+![](../../../.gitbook/assets/image%20%2850%29.png)
 
 #### Assigning a complaint
 
@@ -174,13 +174,13 @@ Follow the steps below to assign a complaint to a Last Mile employee. The Assign
 
 The Assigning office clicks on the ‘ASSIGN’ button to assign the complaint to a Last Mile employee
 
-![](../../../.gitbook/assets/image%20%2845%29.png)
+![](../../../.gitbook/assets/image%20%2848%29.png)
 
 ![](file:////Users/gajendran/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image032.jpg)![](file:////Users/gajendran/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image032.jpg)   
   
 
 
-![](../../../.gitbook/assets/image%20%2849%29.png)
+![](../../../.gitbook/assets/image%20%2852%29.png)
 
 The Assigning officer sees the ‘Assign to Employee’ page. Here the Assigning officer sees a list of municipal employees sorted according to department. The Assigning officer selects one of the employees form this list and clicks on ‘ASSIGN’ button in the bottom right of the page to assign the complaint to the selected employee.
 
@@ -191,7 +191,7 @@ As soon as the Assigning officer assigns the complaint, it will move to the ‘A
 
 Follow the steps below to reject a complaint. Assigning officer logs into the system and goes to the ‘Complaint Summary’ page of the complaint he/she wants to reject. Here, the Assigning officer clicks on ‘REJECT’ button at the bottom of the page
 
-![](../../../.gitbook/assets/image%20%2842%29.png)
+![](../../../.gitbook/assets/image%20%2844%29.png)
 
 #### Re-assign a complaint
 
@@ -300,7 +300,7 @@ The performance of the Assigning officer is critical to ensure a successful impl
    
  
 
-![Functionary Wise Report](../../../.gitbook/assets/image%20%2840%29.png)
+![Functionary Wise Report](../../../.gitbook/assets/image%20%2841%29.png)
 
 A granular report that is capable of providing a first-hand view of the performance of individual field employees in the PGR Ecosystem by highlighting the following for each employee -
 
