@@ -1,80 +1,72 @@
 # DIGIT Roadmap
 
-DIGIT Roadmap is centred around the following five themes. The sample deliverables against each of these themes are mentioned below
+### Roadmap Overview
 
-**Release 20-02**
+Commitment and transparency are deeply ingrained values defining our product development approach. We are constantly developing new capabilities to facilitate digital transformation of our cities. Take a glimpse into our DIGIT Roadmap to learn more about our upcoming tools and features.
 
-**Date:01/10/2020**
+### Key Themes And Objectives
 
-**Beta date**
+| Themes | Objectives |
+| :--- | :--- |
+| Theme 1: Standardize and simplify for ease of use | Standardize software support processes, knowledge repositories; Improve tools to support automations |
+| Theme 2: Deliver value to States | Deliver product backlog, completion of DIGIT products and decision support systems |
+| Theme 3: Increase ease of use and ease of access to citizens | Create integrated user experience with key focus on flexibility, accessibility, quality of service; Optimized user experience |
+| Theme 4: Enhance data privacy and security | Update and enhance data privacy parameters on DIGIT across reports, modules, and dashboards |
+| Theme 5: New product innovation | Identify high-impact product innovation areas through validation, understanding the domain, and processes involved |
 
-**GA date**
+### DIGIT Roadmap
 
-**Module/Initiative**
+{% tabs %}
+{% tab title="1st Quarter \(Apr-Jun 2020\)" %}
+Water & Sewerage 
 
-**Planned Deliverables**
+* [ ] Create provision to apply for new Water & Sewerage connection.
+* [ ] Integrate Water & Sewerage connection with DIGIT Property Registry.
 
-Water and Sewerage\(W&S\)
+Property Tax 
 
-* Provide capability to modify existing Water and Sewerage Connection. This simplifies the process for modification of Connection for Citizens and for Employees in a transparent manner through
-  * Notifications
-  * Workflow steps for verification of details
+* [ ] Provide citizens the capability to search for registered properties in the public domain without login.
 
-Decision Support System
+Online Building Plan Approval System \(OBPAS\)
 
-* Enhancements to Real Time Dashboards with focus on the following
-  * Improved drill downs and drill throughs
-  * Enhancements to search capability
-  * Redesign for greater usability through mobile
-  * Rigorous testing on multiple browser and device sizes to improve responsiveness
+* [ ] Provide the capability to scrutinize the plan diagram online for occupancy certificate post construction
+* [ ] Facilitate stakeholders to apply for occupancy certificate online.
+{% endtab %}
 
-Online Building Plan Approval System\(OBPAS\)
+{% tab title="2nd Quarter \(Jul-Sep 2020\)" %}
+Water & Sewerage 
 
-* EODB mandates CAF \( Common application form\) for building permits
-  * Allows citizen to create permit application as well as the application for NOCs in a single interface
-* Facilitate NOC department users to login to the system online
-  * View and process the application
-  * Provide NOC online
-* Facilitate ULB users to validate the NOCs provided by the NOC department user online and process the building permit and occupancy certificate application.
-* Enable citizen to check the status of both permit application and NOC application online
+* [ ] Create provision to apply for new Water & Sewerage connection.
+* [ ] Integrate Water & Sewerage connection with DIGIT Property Registry.
 
-Enhancement to Platform Capability
+Property Tax 
 
-* Capability to handle Advance payments. This will be a platform level capability available for all Services. The first reference implementation of this will be with Water & Sewerage module
-  * Pay/ Adjust excess amount against the demand generated
-  * Generate Receipt showing the excess payment
-  * Generate Bill with advance amount adjustment
-* PGR Integration with WorkFlow service
-  * Integration will help PGR to get features of workflow directly such as common Inbox for employee, configurable actions for role, view history, edit, comment, view summary
-  * Workflow configuration will be possible while implementing it in new states \(if required\) as per their requirement.
+* [ ] Provide citizens the capability to search for registered properties in the public domain without login.
 
-Integrated User Experience
+Online Building Plan Approval System \(OBPAS\)
 
-* Provide capability to make payments through Whatsapp
-  * Creating a additional channel for payment
-  * Improve demand collection efficiency
-  * Improve the ease of search and view bills
-  * Improve speed and convenience for bill payment
-* Revamp the ‘User Experience’ to improve ease of use and ease of access for Citizens and Employees with focus on ‘Inclusiveness’
-  * Evaluate alternative UX designs which improve- accessibility, usability and content
+* [ ] Provide the capability to scrutinize the plan diagram online for occupancy certificate post construction
+* [ ] Facilitate stakeholders to apply for occupancy certificate online.
+{% endtab %}
 
-New Product Innovation
+{% tab title="3rd Quarter \(Oct-Dec 2020\)" %}
+Water & Sewerage 
 
-* Work with a knowledge partner to study and identify areas to be addressed in the domain of ‘Non-networked Sewerage Management’. This study will help identify:
-  * Need assessment
-  * Potential areas, where Digitization can be used
-  * Solution Map
+* [ ] Create provision to apply for new Water & Sewerage connection.
+* [ ] Integrate Water & Sewerage connection with DIGIT Property Registry.
 
-Standardization and Simplification
+Property Tax 
 
-* Standardization of Master Data, Configurations, Taxonomies for ease of deployment
+* [ ] Provide citizens the capability to search for registered properties in the public domain without login.
 
-Knowledge assets, Tools, Documentation
+Online Building Plan Approval System \(OBPAS\)
 
-* Upgrades to Product and Technical Documentation, Templates, Release Documentation
-* Knowledge repository setup for internal users and Partners
-* Self help demo setup
-* Product Training material
+* [ ] Provide the capability to scrutinize the plan diagram online for occupancy certificate post construction
+* [ ] Facilitate stakeholders to apply for occupancy certificate online.
+{% endtab %}
+{% endtabs %}
 
-[https://docs.google.com/document/d/12li68gW80krKg\_LBU7-taA-qnW7WSh\_-YK9OJxJPdbs/edit](https://docs.google.com/document/d/12li68gW80krKg_LBU7-taA-qnW7WSh_-YK9OJxJPdbs/edit)
+
+
+
 
