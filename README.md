@@ -6,7 +6,7 @@ description: >-
 
 # DIGIT Overview
 
-## Digital Infrastructure for Governance, Impact & Transformation.
+## Digital Infrastructure for Governance, Impact & Transformation
 
 ### Open Source
 
@@ -20,15 +20,17 @@ DIGIT has adopted a mobile first approach, with robust mobile applications enabl
 
 
 
-### Real time **Dashboards** to drive decisions
+### Real-time **Dashboards** to drive decisions
 
-DIGIT’s real time dashboards provide governments with actionable insights on demand. Administrators and department heads are empowered with verified data that enables them to manage their work and budgets better. Field level employee reports enable effective performance management and ensures efficient usage of government resources.[REQUEST A DEMO](https://www.digit.org/request-a-demo/)
+DIGIT’s real time dashboards provide governments with actionable insights on demand. Administrators and department heads are empowered with verified data that enables them to manage their work and budgets better. Field level employee reports enable effective performance management and ensures efficient usage of government resources. 
+
+[REQUEST A DEMO](https://www.digit.org/request-a-demo/)
 
 
 
 ![](.gitbook/assets/image%20%2839%29.png)
 
-### Ready to use, **Configurable** Urban Governance Platform
+### Ready to use c**onfigurable** urban governance platform
 
 **CITIZENS**
 
