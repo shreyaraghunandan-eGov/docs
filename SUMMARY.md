@@ -25,6 +25,8 @@
     * [Public Grievance](understand-digit/product-user-guides/public-grievance.md)
   * [Release Notes](understand-digit/release-notes/README.md)
     * [DIGIT 2.0 \(30.07.2020\)](understand-digit/release-notes/digit-2.0-30.07.2020/README.md)
+      * [New Releases](understand-digit/release-notes/digit-2.0-30.07.2020/new-releases.md)
+      * [Upgrades and Patches](understand-digit/release-notes/digit-2.0-30.07.2020/upgrades-and-patches.md)
       * [Changelog](understand-digit/release-notes/digit-2.0-30.07.2020/changelog.md)
       * [Localisation](understand-digit/release-notes/digit-2.0-30.07.2020/localisation.md)
       * [API Contracts](understand-digit/release-notes/digit-2.0-30.07.2020/api-contracts/README.md)
