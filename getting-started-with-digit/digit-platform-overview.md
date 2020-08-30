@@ -12,7 +12,7 @@ Add an image to illustrate the concept of DIGIT.
 
 ### DIGIT Benefits <a id="DIGIT-Benefits"></a>
 
-A pyramid illustration to highlight the benefits of DIGIT from Societal, Technology, and Governance perspective.
+An illustration to highlight the benefits of DIGIT from Societal, Technology, and Governance perspective.
 
 ![](../.gitbook/assets/image%20%2857%29.png)
 
