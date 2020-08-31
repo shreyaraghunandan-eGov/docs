@@ -59,7 +59,7 @@
     * [Troubleshooting](deploy/devops-1/troubleshooting.md)
     * [Monitoring & Alerts](deploy/devops-1/monitoring-and-alerts.md)
     * [CI/CD](deploy/devops-1/digit-ci-cd/README.md)
-      * [Adding a new service to build pipeline](deploy/devops-1/digit-ci-cd/adding-a-new-service-to-build-pipeline.md)
+      * [Adding New Service to build Pipeline](deploy/devops-1/digit-ci-cd/adding-a-new-service-to-build-pipeline.md)
 * [Configure DIGIT](configure/README.md)
   * [Git Repos](configure/open-source-git-repos.md)
   * [Setting up DIGIT](configure/setting-up-digit/README.md)
