@@ -74,45 +74,44 @@ If git repository URL is available build the Job-Builder Job
 
 If git repository URL is not available ask devops team to add.
 
-**Continuous Deployment \(CD\):**
+\*\*\*\*
 
-‌
+**Continuous Deployment \(CD\):**‌
 
 The services deployed and managed **on a Kubernetes cluster** in cloud platforms like **AWS, Azure, GCP, OpenStack, etc.** Here, we use **helm charts** to manage and generate the **Kubernetes manifest files** and use them for further deployment to respective **Kubernetes cluster**. Each service is created as charts which will have the below-mentioned files in it.
 
-‌
+For Eg:
 
-For Eg: _billing-service/ \# Directory – name of the service/app Chart.yaml \# A YAML file containing information about the chart LICENSE \# OPTIONAL: A plain text file containing the license for the chart README.md \# OPTIONAL: A human-readable README file values.yaml \# The default configuration values for this chart templates/ \# A directory of templates that, when combined with values, will generate valid Kubernetes manifest files._
-
-‌
+       ****_billing-service/           \# Directory – name of the service/app  
+       Chart.yaml              \# A YAML file containing information about the chart  
+       LICENSE                \# OPTIONAL: A plain text file containing the license for the chart  
+       README.md          \# OPTIONAL: A human-readable README file  
+       values.yaml            \# The default configuration values for this chart  
+       templates/              \# A directory of templates that, when combined with values, will generate valid Kubernetes manifest files._
 
 To deploy a new service, we need to create the helm chart for it. The chart should be created under the **charts/helm** directory in **eGov-infraOps** repository.
 
-‌
-
-Github repository URL: [https://github.com/egovernments/eGov-infraOps](https://github.com/egovernments/eGov-infraOps) OR [https://github.com/egovernments/Train-InfraOps](https://github.com/egovernments/Train-InfraOps)
-
-‌
+Github repository URL: ****[**https://github.com/egovernments/eGov-infraOps**](https://github.com/egovernments/eGov-infraOps) ****OR [**https://github.com/egovernments/Train-InfraOps**](https://github.com/egovernments/Train-InfraOps)\*\*\*\*
 
 We have an automatic helm chart generator utility which needs to be installed on local machine, the utility will prompt for user inputs about the newly developed service\( app specifications\) for creating the helm chart. The requested chart with the configuration values \(created based on the inputs provided\) will be created for the user.
 
-‌
-
-_**Name of the service? test-service Application Type? NA Kubernetes health checks to be enabled ? Yes Flyway DB migration container necessary? No Expose service to the internet? Yes Route through API gateway \[zuul\] ? No Context path ? hello**_
-
-‌
+‌                       _**Name of the service?  test-service  
+                       Application Type? NA  
+                       Kubernetes health checks to be enabled ? Yes  
+                       Flyway DB migration container necessary? No  
+                       Expose service to the internet? Yes  
+                       Route through API gateway \[zuul\] ? No  
+                       Context path ? hello**_‌
 
 The generated chart will have the following files.
 
-‌
-
-**create Chart.yaml create values.yaml create templates/deployment.yaml create templates/service.yaml create templates/ingress.yaml**
-
-‌
+                           **create Chart.yaml  
+                           create values.yaml  
+                           create templates/deployment.yaml  
+                           create templates/service.yaml  
+                           create templates/ingress.yaml**
 
 This chart can also be modified further based on the user requirements.
-
-‌
 
 The Deployment of manifests to the Kubernetes cluster is made very simple and easy. We have Jenkins Jobs for each state and environment specific. We need to provide the image name or the service name in the respective Jenkins deployment job.
 
@@ -126,9 +125,7 @@ Enter a caption for this image \(optional\)
 
 ‌
 
-The deployment Jenkins job internally performs the following operations,
-
-‌
+The deployment Jenkins job internally performs the following operations,‌
 
 * Reads the image name or the service name given and finds the chart that is specific to it.
 * Generates the Kubernetes manifests files from the chart using helm template engine.
