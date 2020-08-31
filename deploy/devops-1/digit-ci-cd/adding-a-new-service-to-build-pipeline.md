@@ -10,15 +10,33 @@ Eg: [https://github.com/egovernments/core-services/blob/master/build/build-confi
 
 This file contains the below details which are used for creating the automated Jenkins pipeline job for your newly created service.
 
-\# **config:** \# **-** **name:** &lt; Name of the job, foo/bar would create job named bar inside folder foo &gt; \# **build:** \# **- work-dir:** &lt; Working directory of the app to be built &gt; \# **dockerfile:** &lt; Path to the dockerfile, optional, assumes dockerfile in working directory if not provided&gt; \# **image-name:** &lt; Docker image name &gt;
+\# **config:**  
+\#   **-** **name:** &lt; Name of the job, foo/bar would create job named bar inside folder foo &gt;  
+\#     **build:**  
+\#     **- work-dir:** &lt; Working directory of the app to be built &gt;  
+\#       **dockerfile:** &lt; Path to the dockerfile, optional, assumes dockerfile in working directory if not provided&gt;                                                  
+\#       **image-name:** &lt; Docker image name &gt;
 
 While integrating a new service/app, the above content needs to be added in the build-config.yml file of that app repository. For example: If we are on-boarding a new service called **egov-test,** then the build-config.yml should be added as mentioned below.
 
-_**config: - name: core-services/egov-test build: - work-dir: egov-test dockerfile: build/maven/Dockerfile image-name: egov-test**_
+_**config:  
+   - name: core-services/egov-test  
+     build:  
+     - work-dir: egov-test  
+       dockerfile: build/maven/Dockerfile  
+       image-name: egov-test**_
 
 If a job requires multiple images to be created \(DB Migration\) then it should be added as below,
 
-_**config: - name: core-services/egov-test build: - work-dir: egov-test dockerfile: build/maven/Dockerfile image-name: egov-test - work-dir: egov-test/src/main/resources/db dockerfile: build/maven/Dockerfile image-name: egov-test-db**_
+_**config:  
+   - name: core-services/egov-test  
+     build:  
+     - work-dir: egov-test  
+       dockerfile: build/maven/Dockerfile  
+       image-name: egov-test  
+     - work-dir: egov-test/src/main/resources/db  
+       dockerfile: build/maven/Dockerfile  
+       image-name: egov-test-db**_
 
 ‌
 
