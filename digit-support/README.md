@@ -1,6 +1,0 @@
-# DIGIT Support
-
-
-
-
-
