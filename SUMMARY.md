@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DIGIT Overview](README.md)
+* [change log](README.md)
 * [Getting Started](getting-started-with-digit/README.md)
   * [Digit Overview](getting-started-with-digit/digit-platform-overview.md)
   * [DIGIT Architecture](getting-started-with-digit/technology-and-architecture.md)
